@@ -1,3 +1,4 @@
+import "./globals.css";
 export const metadata = {
   title: "MockMate — AI Interview Coach",
   description: "Practice interviews with AI",

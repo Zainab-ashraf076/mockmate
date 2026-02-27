@@ -1,6 +1,5 @@
 "use client";
 import { useState, useRef, useEffect } from "react";
-
 const ROLES = [
   "Frontend Developer", "Backend Developer", "Full Stack Developer",
   "React Developer", "UI/UX Designer", "Product Manager",
